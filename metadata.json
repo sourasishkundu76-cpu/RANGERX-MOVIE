@@ -1,0 +1,7 @@
+{
+  "name": "RANGER-X: Wildlife Emergency Response Simulation",
+  "description": "Cinematic AAA gaming-style mission simulation and tactical HUD prototype for wildlife emergency response in Forest Sector 07.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
